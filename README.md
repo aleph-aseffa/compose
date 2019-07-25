@@ -36,7 +36,7 @@ The program will notify you when the playlist has been created.
 
 
 Final results:
-![Output](https://i.imgur.com/mk2ZH55.png)
+![Output](https://i.imgur.com/mk2ZH55.png?1)
 
 
 
