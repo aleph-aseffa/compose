@@ -27,7 +27,7 @@ Enter in what you want your playlist to be named (e.g. Test Run).
 Then enter the ID of the artist you want to base the playlist on. You can find this by Googling the artist's name + Spotify and then copying the last section of the URL.
 
 For example, for J. Cole, copy the highlighted section in the address bar:
-![J. Cole](https://i.imgur.com/7c22TnC.png)
+![J. Cole](https://i.imgur.com/G5szdtN.png)
 
 Paste this in the program and press enter. Wait a bit while the program searches for and adds songs to your playlist. You can open up Spotify to see the songs being added. 
 
